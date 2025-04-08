@@ -20,7 +20,7 @@ The Simple C# Calculator is a console-based application designed to perform basi
 
 # Installation
 1. **Clone the repository to your local machine:**
-   git clone https://github.com/yourusername/simple-csharp-calculator.git
+   git clone https://github.com/ReitumetseM/SimpleCalculator.git
 3. **Navigate to the project directory:**
    cd simple-csharp-calculator
 5. **Build the project:**
